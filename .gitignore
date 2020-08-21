@@ -1,6 +1,9 @@
+/target
 /out
 *.class
 *.jar
-
+.idea/Zepplin*
+.idea/markdown*
+.idea/$CACHE_FILE$
 .idea/workspace.xml
 /test/awesome/integration
